@@ -30,7 +30,7 @@ namespace simpleFavoriteBand
             else if (numberOfMembers < 1)
             {
                 Console.WriteLine("You must have at least 1 member");
-                //ending environment with exit 0 ends program in console
+                //ending environment with exit 0 ends program in console 
                 Environment.Exit(0);
             }
             else if (numberOfMembers == 1)
