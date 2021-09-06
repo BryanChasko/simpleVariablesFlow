@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\bin\Debug\net5.0\simpleFavoriteBand.exe
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\bin\Debug\net5.0\simpleFavoriteBand.deps.json
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\bin\Debug\net5.0\simpleFavoriteBand.runtimeconfig.json
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\bin\Debug\net5.0\simpleFavoriteBand.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\bin\Debug\net5.0\simpleFavoriteBand.dll
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\bin\Debug\net5.0\ref\simpleFavoriteBand.dll
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\bin\Debug\net5.0\simpleFavoriteBand.pdb
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\obj\Debug\net5.0\simpleFavoriteBand.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\obj\Debug\net5.0\simpleFavoriteBand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\obj\Debug\net5.0\simpleFavoriteBand.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\obj\Debug\net5.0\simpleFavoriteBand.AssemblyInfo.cs
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\obj\Debug\net5.0\simpleFavoriteBand.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\obj\Debug\net5.0\simpleFavoriteBand.dll
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\obj\Debug\net5.0\ref\simpleFavoriteBand.dll
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\obj\Debug\net5.0\simpleFavoriteBand.pdb
+C:\Users\Owner\source\repos\simple\simpleFavoriteBand\obj\Debug\net5.0\simpleFavoriteBand.genruntimeconfig.cache
